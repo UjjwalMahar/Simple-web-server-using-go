@@ -1,2 +1,2 @@
 # Simple-web-server-using-go
-Creating Simple Web Sever Using GoLang
+Simple Web Sever Using GoLang
